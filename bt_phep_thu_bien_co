@@ -1,0 +1,42 @@
+1. 
+a. Ω = {SS, NN, SN, NS} 
+b. 
+   A = {SN, SS, NS}
+   B = {SN, NS}
+   C = {NN, NS, SN}
+2.
+a. Ω = {(i, j) | i,j = 1, 2, 3, 4, 5, 6} 
+b. 
+   A là các biến cố xúc sắc thứ nhất xuất hiện mặt 6 nút
+   B là các biết cố có tổng số chấm của 2 xúc sắc là 8
+   C là các biét cố số chấm 2 xúc sắc xuất hiện giống nhau
+3. 
+a. Ω = {12, 13, 14, 23, 24, 34}
+b.
+   A = {13, 24}
+   c = {12, 14, 23, 24, 34}
+4.
+a. 
+   A = ∅
+   B = A1 ∩ A2
+   C : A1 đối A2
+   D = A1 ∪ A2
+b.
+   Biến cố đối của D xảy ra khi không có ai bắn trúng => A là biến cố đối của D
+   Nếu chỉ 1 xạ thủ bắn trúng thì B không thể xảy ra => B xung khắc C
+5.
+a. Ω = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+b. 
+   A = {1, 2, 3, 4, 5}
+   B = {7, 8, 9, 10}
+   C = {2, 4, 6, 8, 10}
+6.
+a. Ω = {..., S} hoặc {..., N, N, N, N}
+b. A = {S, N, SS, SN, NS, NN, SSS, SSN, SNS, NSS, SNN, NSN, SNN, NNN}
+c. B = {SSSS, SSSN, SSNS, SNSS, NSSS, SSNN, SNSN, SNNS, NNSS, SSSN, SSNS, SNSS, NSSS, NNNN}
+7. 
+a. Ω = {12, 13, 14, 15, 21, 23, 24, 25, 31, 32, 34, 35, 41, 42, 43, 45, 51, 52, 53, 54} 
+b. 
+   A = {12, 13, 14, 15, 23, 24, 25, 34, 35, 45}
+   B = {21, 42}
+   C = ∅

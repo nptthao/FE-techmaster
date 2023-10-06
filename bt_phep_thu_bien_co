@@ -22,7 +22,7 @@ a.
    C = (-A1 ∩ A2) ∪ (A1 ∩ -A2)
    D = A1 ∪ A2
 b.
-   Biến cố đối của D xảy ra khi không có ai bắn trúng => A là biến cố đối của D
+   A ∪ D = Ω; A ∩ D = ∅ => A là biến cố đối của D
    Nếu chỉ 1 xạ thủ bắn trúng thì B không thể xảy ra => B xung khắc C
 5.
 a. Ω = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}

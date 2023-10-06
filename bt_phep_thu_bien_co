@@ -19,7 +19,7 @@ b.
 a. 
    A = -A1 ∩ -A2
    B = A1 ∩ A2
-   C : A1 đối A2
+   C = (-A1 ∩ A2) ∪ (A1 ∩ -A2)
    D = A1 ∪ A2
 b.
    Biến cố đối của D xảy ra khi không có ai bắn trúng => A là biến cố đối của D

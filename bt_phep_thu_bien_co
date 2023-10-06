@@ -1,15 +1,15 @@
 1. 
-a. Ω = {SS, NN, SN, NS} 
+a. Ω = {SSS, SSN, SNS, SSN} 
 b. 
-   A = {SN, SS, NS}
-   B = {SN, NS}
-   C = {NN, NS, SN}
+   A = {SNN, SSN, NSN}
+   B = {SNN, NSN, NNS}
+   C = {NSS, SNS, SSN, NNS, NSN, SNN, NNN}
 2.
 a. Ω = {(i, j) | i,j = 1, 2, 3, 4, 5, 6} 
 b. 
-   A là các biến cố xúc sắc thứ nhất xuất hiện mặt 6 nút
-   B là các biết cố có tổng số chấm của 2 xúc sắc là 8
-   C là các biét cố số chấm 2 xúc sắc xuất hiện giống nhau
+   A là các biến cố xúc sắc gieo lần thứ nhất xuất hiện mặt 6 nút
+   B là các biết cố có tổng số chấm của 2 lần gieo là 8
+   C là các biét cố số chấm 2 lần gieo xuất hiện giống nhau
 3. 
 a. Ω = {12, 13, 14, 23, 24, 34}
 b.
@@ -17,7 +17,7 @@ b.
    c = {12, 14, 23, 24, 34}
 4.
 a. 
-   A = ∅
+   A = -A1 ∩ -A2
    B = A1 ∩ A2
    C : A1 đối A2
    D = A1 ∪ A2

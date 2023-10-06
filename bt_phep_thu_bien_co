@@ -32,8 +32,8 @@ b.
    C = {2, 4, 6, 8, 10}
 6.
 a. Ω = {S, NS, NNS, NNNS, NNNN}
-b. A = {S, N, SS, SN, NS, NN, SSS, SSN, SNS, NSS, SNN, NSN, SNN, NNN}
-c. B = {SSSS, SSSN, SSNS, SNSS, NSSS, SSNN, SNSN, SNNS, NNSS, SSSN, SSNS, SNSS, NSSS, NNNN}
+b. A = {S, NS, NNS}
+c. B = {NNNN}
 7. 
 a. Ω = {12, 13, 14, 15, 21, 23, 24, 25, 31, 32, 34, 35, 41, 42, 43, 45, 51, 52, 53, 54} 
 b. 

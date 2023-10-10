@@ -1,0 +1,40 @@
+1. 
+a. Ω = {(i, j) | i,j = 1, 2, 3, 4, 5, 6}
+b.
+   A = {46, 55, 64}
+   B = {15, 25, 35, 45, 55, 65, 51, 52, 53, 54, 56}
+c. P(A) = 3/36 = 1/12
+   P(B) = 11/36
+   
+2.
+a. Ω = {123, 234, 341, 412}
+b.
+   A = {341}
+   B = {123, 234}
+c. P(A) = 1/4 = 0.24
+   P(B) = 2/4 = 0.5
+   
+3. P = 8/8C2 = 8/28
+
+4. x^2 +bx+2=0 -> Delta (d) = b^2 - 4*2 = b^2 - 8
+a. Phương trình có nghiệm khi delta > 0 <=> b^2 > 8 <=> b > 2căng2 => Biến cố A = {1, 2}
+   P(A) = 2/6 = 1/3
+b. Phương trình vô nghiệm: P(B) = 1 - P(A) = 1 - 1/3 = 2/3
+c. Phương trình có nghiệm khi
+      (-b + căng(delta)) /2a > 0 <=> -b + căng(delta)) 
+<=>   căng(delta)) > b <=> căng(b^2 - 8) > b <=> b^2 - 8 > b^2 
+   Không có b thỏa điều kiện này nên P(C) = 0
+   
+5. 
+a. P = 1 / 52C4
+b. P = 4C1 * 51C3 / 52C4
+c. P = 4C2 * 4C2 / 52C4
+
+6. 
+a. P = 8/24 = 1/3
+b. P = 1 - 1/3 = 2/3
+
+7. 
+a. A và B là 2 biến cố đọc lập
+b. Đen đen + trắng trắng: 4C1*6C1 + 6C1*4C1 = 24 + 24 = 48 => P = 48/100 = 0.48
+c. Đen trắng + trắng đen: 4C1*4C1 + 6C1*6C1 = 16 + 36 = 52 => P = 52/100 = 0.52
